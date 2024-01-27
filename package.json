@@ -1,5 +1,5 @@
 {
-  "homepage": "https://motionbit95.github.io/flit_doc",
+  "homepage": "https://motionbit95.github.io/flit_doc.git",
   "dependencies": {
     "docdash": "^2.0.2",
     "gh-pages": "^6.1.1",
