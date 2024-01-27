@@ -1,6 +1,6 @@
 # package
-./node_modules
+node_modules
 
 # file
-./package-lock.json
-./.DS_Store
+package-lock.json
+.DS_Store
